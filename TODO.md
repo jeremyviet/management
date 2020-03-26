@@ -16,7 +16,7 @@
 [ ] Retrospective Template
 [ ] Quarterly Roadmap Template
 [ ] Runbook Template
-[ ] 1:1 Template
+[X] 1:1 Template
 [ ] One-pager Template
 [ ] On-boarding Template
 [ ] Interview Feedback Template
