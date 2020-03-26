@@ -17,7 +17,7 @@
 [ ] Quarterly Roadmap Template
 [ ] Runbook Template
 [X] 1:1 Template
-[ ] One-pager Template
+[X] One-pager Template
 [ ] On-boarding Template
 [ ] Interview Feedback Template
 [ ] On-Call Handoff Template
