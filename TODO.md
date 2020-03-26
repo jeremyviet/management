@@ -5,7 +5,7 @@
 
 ## Templates
 [X] Pull Request Template
-[ ] Feature Template
+[X] Feature Template
 [ ] Task Template
 [ ] Bug Template
 [ ] Manual Change Template
