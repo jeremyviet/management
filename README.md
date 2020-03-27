@@ -13,7 +13,7 @@ As a manager, it is my job to:
 While I've listed a some bulletpoints which I believe to define my job, I don't believe I'm above any job. When help is needed, let me know. If I fail to live up to my or your expectations, please feel free to tell me. If something can be done differently to make your or the team's life easier, I appreciate the chance to make that change.
 
 ## How I approach my job
-\\<DRAFT>
+--DRAFT--
 I am responsible for everything.
 My teams come first. I am here to make you successful.
 
@@ -29,4 +29,4 @@ I run by the following tenets:
 
 * Mobilis in mobili - Changing in the changes. OODA loop
 * Aut inveniam viam aut faciam - I shall either find a way or make one
-\\</DRAFT>
+--DRAFT--
