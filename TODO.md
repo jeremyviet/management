@@ -13,7 +13,7 @@
 [ ] 5-Whys Template
 [ ] Fault-Tree Analysis Template
 [ ] Security Incident Template
-[ ] Retrospective Template
+[X] Retrospective Template
 [ ] Quarterly Roadmap Template
 [ ] Runbook Template
 [X] 1:1 Template
